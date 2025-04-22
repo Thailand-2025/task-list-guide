@@ -4,7 +4,7 @@ This repository contains a mobile-friendly, collapsible task list for your upcom
 
 ## ✅ Live Site
 Once deployed via GitHub Pages, access the guide here:  
-**https://<your-github-username>.github.io/thailand-task-list-guide-2025/**
+**https://thailand-2025.github.io/thailand-task-list-guide-2025/**
 
 ## ✨ Features
 - **Collapsible “All Tasks”** section for quick overview  
@@ -15,21 +15,14 @@ Once deployed via GitHub Pages, access the guide here:
 - **Responsive design** optimized for mobile and desktop
 
 ## 📋 Task Categories
-- All Tasks (covers visa, transfers, eSIM, and more)
+1. eSIM
+2. Transfers
+3. Visa
 
 ## 🔧 How to Use
-1. **Clone** this repository:  
-   ```bash
-   git clone https://github.com/<your-github-username>/thailand-task-list-guide-2025.git
-   ```
-2. **Enable GitHub Pages**:  
-   - Go to **Settings > Pages**  
-   - Set **Source** to `main` branch and `/ (root)` folder  
-3. **Visit** the published link to view the live task list.
+1. Clone this repository or upload via GitHub.
+2. Enable GitHub Pages via **Settings > Pages > Source: Main > Root (/).**
+3. Visit the published link provided by GitHub.
 
 ## 📄 License
-This project is open and available for personal use.
-
----
-
-*Generated from `index.html` to provide an at-a-glance guide for travel planning.*  
+This project is open and shareable for personal use.

@@ -4,12 +4,7 @@ This repository contains a mobile-friendly, collapsible task list for your upcom
 
 ## ✅ Live Site
 Once deployed via GitHub Pages, access the guide here:  
-**https://thailand-2025.github.io/thailand-task-list-guide-2025/**
-
-<a href="https://thailand-2025.github.io/travel-packing-guide/" target="_blank" rel="noopener noreferrer">
-  Travel Packing Guide for Thailand 2025
-</a>
-
+**https://thailand-2025.github.io/task-list-guide/**
 
 ## ✨ Features
 - **Collapsible “All Tasks”** section for quick overview  
